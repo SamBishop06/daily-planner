@@ -13,7 +13,7 @@ Work Day Scheduler Starter Code
 ## ![](./Assets/images/daily-planner2.png)
 
 
-## [Deployed Application (click here)](http://127.0.0.1:5501/index.html) 
+## [Deployed Application (click here)](https://sambishop06.github.io/daily-planner/) 
 
 ## Installation: 
 - [Visual Studio Code](https://code.visualstudio.com/download)
